@@ -41,7 +41,8 @@ Clone & create new branch  **slave02** </br>
 *!!!!! PLEASE MAKE SURE YOU CREATE NEW BRANCH IN **GITHUB** !!!!!!*
 
 ```bat
-git clone https://github.com/alexlam184/tee_ai.git
+
+git clone https://github.com/alexlam184/penguin_lifestyle.git
 git fetch 
 git checkout slave02
 
@@ -110,6 +111,8 @@ git push
 **Client:** React, Next
 
 **Server:** Node
+
+**Backend:**
 
 ## Release
 
