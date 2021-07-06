@@ -34,11 +34,6 @@ To know more npm command, click [here](react_guide_readme.md)
 
 
 
-
-## EMG folder directory
-
-
-
 ---
 
 ## Installing 
@@ -122,10 +117,7 @@ git push
 ---
 ## Contributor
 - Alex Shiu <https://github.com/sysalex0?tab=repositories>
-- Alex Lam <alexander.lam@turned-e.com>
-
-
-
+- Alex Lam <https://github.com/alexlam184>
 ---
 
 ## Licence & copyright
