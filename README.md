@@ -112,7 +112,7 @@ git push
 
 **Server:** Node
 
-**Backend:**
+**Backend:** Spring boot
 
 ## Release
 
