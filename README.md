@@ -20,7 +20,7 @@ create-next-app
 
 ### We suggest that you begin by typing:
 ```bat
-  cd tee_ai
+  cd penguin_lifestyle
   npm run dev
 ```
 
